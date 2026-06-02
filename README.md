@@ -1,6 +1,6 @@
 # Hi 👋, I'm MARETI SATISH
 
-<h3 align="center">Software Engineer | Java Full Stack Developer | Machine Learning Enthusiast</h3>
+<h3 align="center">Software Engineer | Java Full Stack Developer | Machine Learning Enthusiast< | ML Engineer/h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer;Java+Full+Stack+Developer;Spring+Boot+Developer;Machine+Learning+Enthusiast;Problem+Solver;Always+Learning+New+Technologies" />
@@ -17,7 +17,7 @@
 * 🌱 Currently learning **Advanced Spring Boot, React & System Design**
 * 🚀 Interested in **Full Stack Development, Cloud Computing and AI/ML**
 * 🔭 Working on Real-World Projects
-* 📫 Reach me at: **[your-email@example.com](mailto:your-email@example.com)**
+* 📫 Reach me at: **[2300033881.crth2@gmail.com](mailto:your-email@example.com)**
 * ⚡ Fun Fact: *I enjoy turning ideas into applications.*
 
 ---
@@ -28,7 +28,7 @@
 <a href="https://github.com/Satish-Mareti">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
-<a href="https://linkedin.com/in/your-linkedin-profile">
+<a href="https://www.linkedin.com/in/mareti-satish-30159b408/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
