@@ -1,31 +1,32 @@
 # Hi 👋, I'm MARETI SATISH
 
-<h3 align="center">Software Engineer | Java Full Stack Developer | Machine Learning Enthusiast< | ML Engineer/h3>
+<h3 align="center">Machine Learning Enthusiast | Aspiring ML Engineer | Java Full Stack Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer;Java+Full+Stack+Developer;Spring+Boot+Developer;Machine+Learning+Enthusiast;Problem+Solver;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Machine+Learning+Enthusiast;Aspiring+ML+Engineer;Deep+Learning+Explorer;Computer+Vision+Learner;Java+Full+Stack+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+## 👨‍💻 About Me
 
-👨‍💻 About Me
-🎓 B.Tech Student passionate about AI and Software Engineering
-🤖 Interested in Machine Learning, Deep Learning and Generative AI
-🌱 Currently learning Advanced Machine Learning, MLOps and System Design
-💻 Skilled in Python, Java, Spring Boot and Full Stack Development
-🔬 Building AI-powered solutions and real-world ML projects
-🚀 Exploring Computer Vision, Neural Networks and Data Science
-📚 Strong interest in solving real-world problems using AI
+* 🎓 B.Tech Student passionate about AI and Software Engineering
+* 🤖 Interested in Machine Learning, Deep Learning, and Generative AI
+* 🌱 Currently learning Advanced Machine Learning, MLOps, and System Design
+* 💻 Skilled in Python, Java, Spring Boot, and Full Stack Development
+* 🔬 Building AI-powered solutions and real-world ML projects
+* 🚀 Exploring Computer Vision, Neural Networks, and Data Science
+* 📚 Strong interest in solving real-world problems using AI and Data
+
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/Satish-Mareti">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
+
 <a href="https://www.linkedin.com/in/mareti-satish-30159b408/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
@@ -36,41 +37,51 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,python,mysql,mongodb,html,css,js,git,github,vscode,postman,docker" />
+<img src="https://skillicons.dev/icons?i=python,java,spring,react,nodejs,mysql,mongodb,git,github,docker,vscode,postman" />
 </p>
 
 ---
 
-## 💻 Languages & Tools
+## 🤖 AI / ML Focus Areas
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,java,python,spring,hibernate,react,nodejs,mysql,mongodb,git,github,linux" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Satish-Mareti&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satish-Mareti&layout=compact&theme=tokyonight" />
-</p>
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Generative AI
+* Data Science
+* Neural Networks
+* MLOps
 
 ---
 
-## 🔥 GitHub Streak
+## 🚀 Featured Projects
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Satish-Mareti&theme=tokyonight" />
-</p>
+### 🌿 Leaf Disease Detection using DCGAN
+
+Deep Learning based plant disease detection using Computer Vision and GANs.
+
+### ✈️ Travel Management System
+
+Java-based application for travel booking and management.
+
+### 🤖 AZENTRIX Full Stack Task 1
+
+Python-based full-stack development project.
+
+### 🤖 AZENTRIX Full Stack Task 2
+
+Backend and software engineering project using Python.
 
 ---
 
-## 🏆 GitHub Trophies
+## 💡 Currently Learning
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Satish-Mareti&theme=tokyonight&row=1&column=7" />
-</p>
+* Machine Learning Algorithms
+* Deep Learning
+* Computer Vision
+* MLOps
+* System Design
+* Cloud Computing
 
 ---
 
@@ -82,58 +93,8 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌿 Leaf Disease Detection using DCGAN
-
-* Deep Learning based plant disease detection system.
-* Built using Python and Machine Learning techniques.
-
-### ✈️ Travel Management System
-
-* Java-based application for managing travel bookings and customer information.
-
-### 🤖 AZENTRIX Full Stack Task 1
-
-* Full Stack development task implementation.
-* Python-based solution.
-
-### 🤖 AZENTRIX Full Stack Task 2
-
-* Advanced Python project demonstrating backend development concepts.
-
----
-
-## 💡 Currently Learning
-
-* Spring Boot Microservices
-* React.js
-* System Design
-* Cloud Computing
-* Machine Learning
-
----
-
-## 📊 Profile Views
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Satish-Mareti&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
-
-<p align="center">
-"Code. Learn. Build. Repeat."
+<b>Code • Learn • Build • Innovate</b>
 </p>
