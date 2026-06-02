@@ -10,16 +10,14 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 👨‍💻 About Me
-
-* 🎓 B.Tech Student
-* 💻 Passionate about Software Development
-* 🌱 Currently learning **Advanced Spring Boot, React & System Design**
-* 🚀 Interested in **Full Stack Development, Cloud Computing and AI/ML**
-* 🔭 Working on Real-World Projects
-* 📫 Reach me at: **[2300033881.crth2@gmail.com](mailto:your-email@example.com)**
-* ⚡ Fun Fact: *I enjoy turning ideas into applications.*
-
+👨‍💻 About Me
+🎓 B.Tech Student passionate about AI and Software Engineering
+🤖 Interested in Machine Learning, Deep Learning and Generative AI
+🌱 Currently learning Advanced Machine Learning, MLOps and System Design
+💻 Skilled in Python, Java, Spring Boot and Full Stack Development
+🔬 Building AI-powered solutions and real-world ML projects
+🚀 Exploring Computer Vision, Neural Networks and Data Science
+📚 Strong interest in solving real-world problems using AI
 ---
 
 ## 🌐 Connect With Me
@@ -46,7 +44,7 @@
 ## 💻 Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,spring,hibernate,react,nodejs,mysql,mongodb,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=c,java,python,spring,hibernate,react,nodejs,mysql,mongodb,git,github,linux" />
 </p>
 
 ---
