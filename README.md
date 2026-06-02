@@ -3,10 +3,12 @@
 <h3 align="center">Machine Learning Enthusiast | Aspiring ML Engineer | Java Full Stack Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Machine+Learning+Enthusiast;Aspiring+ML+Engineer;Deep+Learning+Explorer;Computer+Vision+Learner;Java+Full+Stack+Developer;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Machine+Learning+Enthusiast;Aspiring+ML+Engineer;Deep+Learning+Explorer;Computer+Vision+Learner;Java+Full+Stack+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
+
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 ## 👨‍💻 About Me
 
@@ -17,6 +19,9 @@
 * 🔬 Building AI-powered solutions and real-world ML projects
 * 🚀 Exploring Computer Vision, Neural Networks, and Data Science
 * 📚 Strong interest in solving real-world problems using AI and Data
+* ⚡ Always learning new technologies and improving problem-solving skills
+
+<br clear="right"/>
 
 ---
 
@@ -37,7 +42,7 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,spring,react,nodejs,mysql,mongodb,git,github,docker,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=python,java,spring,react,nodejs,mysql,mongodb,git,github,docker,vscode,postman,html,css,js" />
 </p>
 
 ---
@@ -58,19 +63,24 @@
 
 ### 🌿 Leaf Disease Detection using DCGAN
 
-Deep Learning based plant disease detection using Computer Vision and GANs.
+* Developed a Deep Learning model for plant disease detection.
+* Applied Computer Vision and Generative Adversarial Networks (DCGAN).
+* Built using Python and Deep Learning techniques.
 
 ### ✈️ Travel Management System
 
-Java-based application for travel booking and management.
+* Java-based application for travel booking and customer management.
+* Implemented backend logic and database integration.
 
 ### 🤖 AZENTRIX Full Stack Task 1
 
-Python-based full-stack development project.
+* Developed a Python-based full-stack application.
+* Implemented data processing and backend functionalities.
 
 ### 🤖 AZENTRIX Full Stack Task 2
 
-Backend and software engineering project using Python.
+* Advanced Python project demonstrating software engineering concepts.
+* Focused on scalable and maintainable code design.
 
 ---
 
@@ -89,6 +99,14 @@ Backend and software engineering project using Python.
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satish-Mareti&theme=tokyo-night" />
+</p>
+
+---
+
+## 📊 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Satish-Mareti&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
