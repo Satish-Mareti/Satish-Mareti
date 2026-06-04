@@ -21,6 +21,10 @@
 * 📚 Strong interest in solving real-world problems using AI and Data
 * ⚡ Always learning new technologies and improving problem-solving skills
 
+
+
+
+
 <br clear="right"/>
 
 ---
