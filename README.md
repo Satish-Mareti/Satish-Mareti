@@ -1,17 +1,18 @@
-# Hi 👋, I'm MARETI SATISH
+# Hey 👋, I'm MARETI SATISH
 
 <h3 align="center">Machine Learning Enthusiast | Aspiring ML Engineer | Java Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Machine+Learning+Enthusiast;Aspiring+ML+Engineer;Deep+Learning+Explorer;Computer+Vision+Learner;Java+Full+Stack+Developer;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Machine+Learning+Enthusiast;Aspiring+ML+Engineer;Deep+Learning+Explorer;Computer+Vision+Learner;Java+Full+Stack+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-## 👨‍💻 About Me
+ #👨‍💻 About Me
 
+ 
 * 🎓 B.Tech Student passionate about AI and Software Engineering
 * 🤖 Interested in Machine Learning, Deep Learning, and Generative AI
 * 🌱 Currently learning Advanced Machine Learning, MLOps, and System Design
