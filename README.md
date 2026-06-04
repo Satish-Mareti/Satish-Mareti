@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="350" hight="200" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="Coding" width="350" hight="100" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 ## 👨‍💻 About Me
 
