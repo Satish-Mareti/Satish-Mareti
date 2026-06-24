@@ -76,17 +76,7 @@
 
 * Java-based application for travel booking and customer management.
 * Implemented backend logic and database integration.
-
-### 🤖 AZENTRIX Full Stack Task 1
-
-* Developed a Python-based full-stack application.
-* Implemented data processing and backend functionalities.
-
-### 🤖 AZENTRIX Full Stack Task 2
-
-* Advanced Python project demonstrating software engineering concepts.
-* Focused on scalable and maintainable code design.
-
+* 
 ---
 
 ## 💡 Currently Learning
